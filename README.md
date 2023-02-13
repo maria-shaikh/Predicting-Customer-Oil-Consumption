@@ -18,4 +18,4 @@ The file ‘Oli usage.xlsx’ contains recent oil usage of 40 customers with the
 
 •	**NumberPeople**: The number of people residing in the home of each of the 40 customers.
  
-The project uses R to conduct the different statistical Analysis.
+The project uses R to conduct the different statistical analyses.
