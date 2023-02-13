@@ -10,8 +10,11 @@ Smith wants to develop a consumption estimation model that is practical and reli
 
 The file ‘Oli usage.xlsx’ contains recent oil usage of 40 customers recent with the following variables:
 •	**OilUsage**: The oil consumption amounts in gallons for 40 customers.
+
 •	**DegreeDays**: The number of degree-days since the last oil fill for 40 customers.
+
 •	**HomeFactor**: An assessment of the home type of each of the 40 customers (levels={1,2,3,4,5}).
+
 •	**NumberPeople**: The number of people residing in the home of each of the 40 customers.
  
 Use R to conduct the different statistical Analysis.
