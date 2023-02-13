@@ -1,5 +1,5 @@
 # Predicting-Customer-Oil-Consumption
-This project aims to develop an oil consumption estimation model that is practical and reliable using R
+## This project aims to develop an oil consumption estimation model that is practical and reliable using R
 
 Smith Fules sells heating oil to residential customers and would like to build a model to predict its customer’s oil consumption.
 
