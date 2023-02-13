@@ -9,6 +9,7 @@ By keeping track of the number of degree-days since the customer’s last oil fi
 Smith wants to develop a consumption estimation model that is practical and reliable.
 
 The file ‘Oli usage.xlsx’ contains recent oil usage of 40 customers recent with the following variables:
+
 •	**OilUsage**: The oil consumption amounts in gallons for 40 customers.
 
 •	**DegreeDays**: The number of degree-days since the last oil fill for 40 customers.
