@@ -8,7 +8,7 @@ Oil customers are exposed to the risk of running out of fuel. Home heating oil s
 By keeping track of the number of degree-days since the customer’s last oil fill, knowing the size of the customer’s oil tank, and estimating the customer’s oil consumptions as a function of the number of degree-days, the oil supplier can estimate when the customer is getting low on fuel and then resupply the customer. However, Smith has more than 2000 customers and computational burden of keeping track of all of these customers is enormous.
 Smith wants to develop a consumption estimation model that is practical and reliable.
 
-The file ‘Oli usage.xlsx’ contains recent oil usage of 40 customers recent with the following variables:
+The file ‘Oli usage.xlsx’ contains recent oil usage of 40 customers with the following variables:
 
 •	**OilUsage**: The oil consumption amounts in gallons for 40 customers.
 
@@ -18,4 +18,4 @@ The file ‘Oli usage.xlsx’ contains recent oil usage of 40 customers recent w
 
 •	**NumberPeople**: The number of people residing in the home of each of the 40 customers.
  
-Use R to conduct the different statistical Analysis.
+The project uses R to conduct the different statistical Analysis.
